@@ -1,0 +1,30 @@
+{
+    "icons": [
+        {
+            "id": 1,
+            "title": "Portal do \n Cliente",
+            "icon": "portal-do-cliente.png"
+        },
+
+        {
+            "id": 1,
+            "title": "Portal do \n Cliente",
+            "icon": "portal-do-cliente.png"
+        },
+
+        {
+            "id": 1,
+            "title": "Portal do \n Cliente",
+            "icon": "portal-do-cliente.png"
+        },
+
+        {
+            "id": 1,
+            "title": "Portal do \n Cliente",
+            "icon": "portal-do-cliente.png"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
