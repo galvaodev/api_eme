@@ -7,21 +7,21 @@
         },
 
         {
-            "id": 1,
-            "title": "Portal do \n Cliente",
-            "icon": "portal-do-cliente.png"
+            "id": 2,
+            "title": "Venda a \n sua área",
+            "icon": "maps.png"
         },
 
         {
-            "id": 1,
-            "title": "Portal do \n Cliente",
-            "icon": "portal-do-cliente.png"
+            "id": 3,
+            "title": "Seja um \n fornecedor",
+            "icon": "fornecedor.png"
         },
 
         {
-            "id": 1,
-            "title": "Portal do \n Cliente",
-            "icon": "portal-do-cliente.png"
+            "id": 4,
+            "title": "trabalho \n conosco",
+            "icon": "trabalhe.png"
         }
     ],
     "profile": {
