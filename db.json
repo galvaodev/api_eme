@@ -24,6 +24,141 @@
       "icon": "trabalhe.png"
     }
   ],
+  "keywords": [
+    {
+      "name": "Empreendimentos",
+      "href": "https://maishm.com.br/empreendimento/list/imoveis",
+      "keyword": "quero comprar; opções de imóveis; empreendimentos imobiliários, quero comprar imóvel, todos os imóveis"
+    },
+    {
+      "name": "Apartamento",
+      "href": "https://maishm.com.br/empreendimento/busca?tipo=Apartamento",
+      "keyword": "apto para comprar, apto a venda, apto, apartamento para comprar, prédio, condomínio de prédio"
+    },
+    {
+      "name": "Casa",
+      "href": "https://maishm.com.br/empreendimento/busca?tipo=Casa",
+      "keyword": "casa para comprar, casa a venda, casa, casa em loteamento, casa em condomínio, condomínio de casa, casa residencial "
+    },
+    {
+      "name": "Imóveis a venda",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=futuros_lancamentos",
+      "keyword": "apto na planta, comprar imovel na planta, comprar casa na planta"
+    },
+    {
+      "name": "Futuros lançamentos",
+      "href": "https://maishm.com.br/empreendimento/list/imoveis",
+      "keyword": "quero comprar; opções de imóveis; empreendimentos imobiliários, quero comprar imóvel, todos os imóveis"
+    },
+    {
+      "name": "Lançamento",
+      "href": "https://maishm.com.br/empreendimento/list/status/lancamento",
+      "keyword": "lançamento de apartamento, lançamento apto, breve lançamento, lançamento imobiliário, construtora lançamento, lançamento empreendimento, lançamento de imóveis"
+    },
+    {
+      "name": "Em obras",
+      "href": "https://maishm.com.br/empreendimento/list/status/em_obras",
+      "keyword": "obras em andamento, obras em construção, apartamento em contrução, prédio em construção, imóvel em construção, casa em construção, imovel construindo, apartamento construindo, casa construindo, apto construindo, obras iniciadas, construção iniciada"
+    },
+    {
+      "name": "Pronto pra morar",
+      "href": "https://maishm.com.br/empreendimento/list/status/pronto_para_morar",
+      "keyword": "comprar apto pronto, quero me mudar já, apartamento pronto pra morar, comprar apartamento pronto"
+    },
+    {
+      "name": "Loteamento",
+      "href": "https://maishm.com.br/empreendimento/busca?tipo=Loteamento",
+      "keyword": "área para comprar, área em loteamento a venda, loteamento, loteamento residencial "
+    },
+    {
+      "name": "Depois eu pago",
+      "href": "http://depoiseupagohm.com.br/",
+      "keyword": "promoção, facilidade de pagar, vantagens de pagamento, desconto, como pagar, vantagem de escolher HM"
+    },
+    {
+      "name": "Campinas",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Campinas",
+      "keyword": "encontrar imóvel em Campinas, escolher imóvel em Campinas, opções em Campinas, região de Campinas"
+    },
+    {
+      "name": "Guarujá",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Guaruj%C3%A1",
+      "keyword": "encontrar imóvel no Guarujá, escolher imóvel em Guarujá, opções no Guarujá, região do Guarujá"
+    },
+    {
+      "name": "Valinhos",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Valinhos",
+      "keyword": "encontrar imóvel em Valinhos, escolher imóvel em Valinhos, opções em Valinhos, região de Valinhos"
+    },
+    {
+      "name": "Santa bárbara d'oeste",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Santa%20B%C3%A1rbara%20d%27Oeste",
+      "keyword": "encontrar imóvel em Sta Barbara, escolher imóvel em Sta Barbara, opções em Sta Barbara, região de Sta Barbara, Santa Barbara, S. Bárbara, Sta Barbara Doeste"
+    },
+    {
+      "name": "Paulínia",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Paul%C3%ADnia",
+      "keyword": "encontrar imóvel em Paulinia, escolher imóvel em Paulinia, opções em Paulinia, região de Paulinia"
+    },
+    {
+      "name": "Limeira",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Limeira",
+      "keyword": "encontrar imóvel em Limeira, escolher imóvel em Limeira, opções em Limeira, região de Limeira"
+    },
+    {
+      "name": "Hortolandia",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Hortol%C3%A2ndia",
+      "keyword": "encontrar imóvel em Hortolândia, escolher imóvel em Hortolandia, opções em Hortolândia, região de Hortolândia"
+    },
+    {
+      "name": "Sorocaba",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Sorocaba",
+      "keyword": "encontrar imóvel em Sorocaba, escolher imóvel em Sorocaba, opções em Sorocaba, região de Sorocaba"
+    },
+    {
+      "name": "Colina",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Colina",
+      "keyword": "encontrar imóvel em Colina, escolher imóvel em Colina, opções em Colina, região de Colina"
+    },
+    {
+      "name": "Barretos",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Barretos",
+      "keyword": "encontrar imóvel em Barretos, escolher imóvel em Barretos, opções em Barretos, região de Barretos"
+    },
+    {
+      "name": "São paulo",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=S%C3%A3o%20Paulo",
+      "keyword": "encontrar imóvel em São Paulo, escolher imóvel em São Paulo, opções em São Paulo, região de São Paulo, encontrar imóvel em SP, escolher imóvel em SP - Capital, opções em SP - Capital, Capital de SP, encontrar imóvel na cidade de São Paulo, escolher imóvel na cidade de SP, opções na cidade de SP"
+    },
+    {
+      "name": "Guapiaçu",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Guapia%C3%A7u",
+      "keyword": "encontrar imóvel em Guapiaçú, escolher imóvel em Guapiaçú, opções em Guapiaçú, região de Guapiaçú"
+    },
+    {
+      "name": "Jundiaí",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Jundia%C3%AD",
+      "keyword": "encontrar imóvel em Jundiaí, escolher imóvel em Jundiaí, opções em Jundiaí, região de Jundiaí"
+    },
+    {
+      "name": "Itupeva",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Itupeva",
+      "keyword": "encontrar imóvel em Itupeva, escolher imóvel em Itupeva, opções em Itupeva, região de Itupeva"
+    },
+    {
+      "name": "Piracicaba",
+      "href": "https://maishm.com.br/empreendimento/busca?cidade=Piracicaba",
+      "keyword": "encontrar imóvel em Piracicaba, escolher imóvel em Piracicaba, opções em Piracicaba, região de Piracicaba"
+    },
+    {
+      "name": "Vanguard Fit",
+      "href": "https://imoveishm.com/hm-vanguard/fit/"
+    },
+    {
+      "name": "Vanguard Maxi",
+      "href": "https://imoveishm.com/hm-vanguard/maxi/"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
