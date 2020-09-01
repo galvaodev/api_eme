@@ -3,25 +3,29 @@
     {
       "id": 1,
       "title": "Portal do \n Cliente",
-      "icon": "portal-do-cliente.png"
+      "icon": "portal-do-cliente.png",
+      "url": "http://kg3uu0-prd-portal.totvscloud.com.br:15141/web/app/Imb/PortalCliente/#/"
     },
 
     {
       "id": 2,
       "title": "Venda a \n sua área",
-      "icon": "maps.png"
+      "icon": "maps.png",
+      "url": "https://maishm.com.br/contato#oferecerumterreno"
     },
 
     {
       "id": 3,
       "title": "Seja um \n fornecedor",
-      "icon": "fornecedor.png"
+      "icon": "fornecedor.png",
+      "url": "https://hagens.invisionapp.com/console/share/MYY6HTR5SBN/428981728"
     },
 
     {
       "id": 4,
       "title": "trabalho \n conosco",
-      "icon": "trabalhe.png"
+      "icon": "trabalhe.png",
+      "url": "https://hmengenharia.gupy.io/"
     }
   ],
   "keywords": [
