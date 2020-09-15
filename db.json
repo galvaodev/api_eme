@@ -11,14 +11,14 @@
       "id": 2,
       "title": "Venda a \n sua área",
       "icon": "maps.png",
-      "url": "https://maishm.com.br/contato#oferecerumterreno"
+      "url": "/vender-minha-area"
     },
 
     {
       "id": 3,
       "title": "Seja um \n fornecedor",
       "icon": "fornecedor.png",
-      "url": "https://hagens.invisionapp.com/console/share/MYY6HTR5SBN/428981728"
+      "url": "/fornecedor"
     },
 
     {
