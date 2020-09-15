@@ -4,6 +4,7 @@
       "id": 1,
       "title": "Portal do \n Cliente",
       "icon": "portal-do-cliente.png",
+      "target": true,
       "url": "http://kg3uu0-prd-portal.totvscloud.com.br:15141/web/app/Imb/PortalCliente/#/"
     },
 
@@ -11,6 +12,7 @@
       "id": 2,
       "title": "Venda a \n sua área",
       "icon": "maps.png",
+      "target": false,
       "url": "/vender-minha-area"
     },
 
@@ -18,6 +20,7 @@
       "id": 3,
       "title": "Seja um \n fornecedor",
       "icon": "fornecedor.png",
+      "target": false,
       "url": "/fornecedor"
     },
 
@@ -25,6 +28,7 @@
       "id": 4,
       "title": "Trabalho \n conosco",
       "icon": "trabalhe.png",
+      "target": true,
       "url": "https://hmengenharia.gupy.io/"
     }
   ],
